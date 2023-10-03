@@ -26,7 +26,7 @@ duracion_de :: Cancion -> Duracion
 duracion_de (Tema(t)(a)(g)(d)) = d
 duracion_de (Publicidad(d)) = d
 
---duracion_de (Tema("Cancion de Rock.")("Alejo")(Rock)(100))
+--duracion_de (Tema("ALEJO CULO ROTO")("Alejo")(Rock)(100))
 --100
 
 --duracion_de (Publicidad(90))
