@@ -274,7 +274,8 @@ la_borrar x (Nodo clave valor xs) | (clave==x) = xs
 --la_borrar ("USER1"::String) listaXS = Nodo "USER2" 3641 Vacia
 
 
-
+{-
 la_adicionar :: ListaAsoc a b -> b -> ListaAsoc a b
 la_adicionar Vacia _ = Vacia
 la_adicionar (Nodo clave valor xs) c = (Nodo a (b+c) xs) 
+-}
