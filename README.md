@@ -1,2 +1,2 @@
 # FaMAF-Proyectos
-Trabajos prácticos de laboratorios FaMAF.
+Trabajos prácticos de laboratorios y parciales de practica FaMAF.
