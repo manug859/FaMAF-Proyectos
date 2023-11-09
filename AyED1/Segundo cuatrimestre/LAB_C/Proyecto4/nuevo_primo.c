@@ -28,10 +28,11 @@ int nesimo_primo(int N) {
             
             if(es_primo(i)) {
                 contador_primo = contador_primo + 1;
+                numero_primo = i;
             }
-        numero_primo = i;
-        i = i+1;        
+        i = i+1;         
     }
+    
 return numero_primo;
 }
 
